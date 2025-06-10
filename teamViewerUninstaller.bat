@@ -6,7 +6,7 @@ chcp 65001
 echo.
 
 cd C:\Program Files
-:: rmdir teamviewer
+rmdir teamviewer
 
 if exist TeamViewer (
     echo Папка TeamViewer не удалена из Program Files
@@ -17,7 +17,7 @@ if exist TeamViewer (
 echo.
 
 cd C:\Program Files (x86)
-:: rmdir teamviewer
+rmdir teamviewer
 
 if exist TeamViewer (
     echo Папка TeamViewer не удалена из Program Files 86
