@@ -1,3 +1,3 @@
 @echo off
-cd C:\Users\ursu\Downloads
+cd C:\Users\username\Downloads
 copy * E:\backups_downloads /y
