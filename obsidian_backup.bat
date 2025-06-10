@@ -1,3 +1,3 @@
 @echo off
-cd C:\Users\ursu\Desktop\IT
+cd C:\Users\username\Desktop\IT
 xcopy * E:\obsidian_backup /y
